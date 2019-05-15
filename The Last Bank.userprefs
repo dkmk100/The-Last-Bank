@@ -1,0 +1,24 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\Scripts\GuardGenerator.cs">
+    <Files>
+      <File FileName="Assets\Scripts\PlayerMovement.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoneyHandler.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\MoneyBoxGenerator.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DayCycle.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemySpikes.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Enemy.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\EnemyGenerator.cs" Line="22" Column="15" />
+      <File FileName="Assets\Scripts\GuardGenerator.cs" Line="28" Column="15" />
+      <File FileName="Assets\Scripts\MoneyBoxScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\DiamondScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\Guard.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\GoldBarScript.cs" Line="1" Column="1" />
+      <File FileName="Assets\Scripts\AirJumpScript.cs" Line="1" Column="1" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
